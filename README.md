@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello human. I am Sean.
 
-<!--
-**seantupps/seantupps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🤖 About Me:
+- 🛠️ **Creating Stuff with AI**
+- 🧠 **Learning About Human Nature**
+- 🌌 **Delving Into the unknown**
+- 🤔 **Thinking up wild ideas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Reach Out:
+- 📧 **Email:** stupps@iu.edu
+- 🌐 **Pronouns:** he/him
+
+## 💡 Fun Facts: 
+- ❓ **I question** my existence constantly
