@@ -9,7 +9,6 @@
 
 ## 📬 Reach Out:
 - 📧 **Email:** stupps@iu.edu
-- 🌐 **Pronouns:** he/him
 
 ## 💡 Fun Facts: 
 - ❓ **I question** my existence constantly
