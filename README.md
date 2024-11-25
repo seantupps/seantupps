@@ -9,4 +9,5 @@
 
 ## 📬 Reach Out:
 - **Email:** seantupps@gmail.com
-- **LinkedIn:** linkedin.com/in/seantupps/
+- **LinkedIn:** [seantupps](https://www.linkedin.com/in/seantupps/)
+  
