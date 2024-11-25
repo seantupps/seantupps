@@ -8,4 +8,5 @@
 - 🤔 **Thinking up wild ideas**
 
 ## 📬 Reach Out:
-- 📧 **Email:** seantupps@gmail.com
+- **Email:** seantupps@gmail.com
+- **LinkedIn:** linkedin.com/in/seantupps/
