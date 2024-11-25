@@ -8,8 +8,4 @@
 - 🤔 **Thinking up wild ideas**
 
 ## 📬 Reach Out:
-- 📧 **Email:** stupps@iu.edu
-
-## 💡 Fun Facts: 
-- ❓ **I question** my existence constantly
-- 👾 **I am** in a simulation
+- 📧 **Email:** seantupps@gmail.com
